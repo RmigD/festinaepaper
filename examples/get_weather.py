@@ -19,7 +19,7 @@ from PIL import Image,ImageDraw,ImageFont
 
 
 y = json.load(open('/home/pi/epaper/Weather/examples/apids.json'))
-datapihole = json.load(open('/home/pi/epaper/Weather/examples/pihole.json'))
+#datapihole = json.load(open('/home/pi/epaper/Weather/examples/pihole.json'))
 
 font30 = ImageFont.truetype(os.path.join(picdir, 'Calibri.ttf'), 30)
 font20 = ImageFont.truetype(os.path.join(picdir, 'Font.ttc'), 20)
