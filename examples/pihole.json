@@ -1,0 +1,2 @@
+You can curl the api call for pihole and show some stats in the weather screen. 
+I had pihole running in a different device, which would crash sometimes. Then the file would not be created and get_weather.py python script wouldn't run. I didn't have time to learn how to avoid this, so I stopped showing the stats in the screen.
