@@ -18,5 +18,15 @@ notes:
 - Some icons aren't coherent with the rest (different thickness), even if they are the same font.
 - Last two lines give the extended forecast. For some reason, the two last letters in each line aren't rendered. I don't think it's the code, but it might be the code. Or the way the screen renders the text. I don't know and I don't care.
 
+Currently shows:
+time of weather forecast
+Wind direction (changes to strong wind icon when there is strong wind - You don't even need to look outside!!)
+Moon phase
+Current weather icon (big! You can see it from at least 3 meters away. Maybe more, but my room is small, so can't test)
+Current temperature, and a convenienc arrow to tell you if the temperature will rise or fall. No more guessing!
+Current weather description
+Forecast for 3, 6 and 9 hours from "now", with forecasted temperature and icon.
+Extended weather forecast. Splits the text in two, which sometimes isn't enough (proof below).
 
 ![screen](https://i.imgur.com/CXAI2i5.jpg)
+
