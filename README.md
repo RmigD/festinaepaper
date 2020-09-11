@@ -6,7 +6,7 @@ Probably should have forked it, but I had no idea how github works. I still don'
 
 ### Screen (HAT)
 - https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_(B)
-- Grab a Pi Zero W with pre-soldered headers and push screen and pi against eachother while trying your hardest not to break them. After you realize the headers are too long, separate the screen from the pi, cut off a couple of mm of the top of each header and do it again.
+- Grab a Pi Zero W with pre-soldered headers and push screen and pi against eachother while trying your hardest not to break them. After you realize the headers are too long (because you suffer from OCD and need to see a flush fit), separate the screen from the pi, cut off a couple of mm of the top of each header and do it again.
 
 ### Instructions (probably incomplete)
 - Check the paths under /examples/getweathertoscreen.sh
