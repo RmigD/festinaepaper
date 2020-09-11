@@ -1,6 +1,9 @@
 # festinaepaper
 ## Just another e-Paper weather station in a watch case.
 
+Got the sample code from here: https://github.com/waveshare/e-Paper
+Probably should have forked it, but I had no idea how github works. I still don't.
+
 ### Instructions (probably incomplete)
 - Check the paths under /examples/getweathertoscreen.sh
 - Check the paths under /examples/get_weather.py
