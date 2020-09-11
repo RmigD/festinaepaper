@@ -17,6 +17,7 @@ Probably should have forked it, but I had no idea how github works. I still don'
 - pushbullet code is a mess. There are leftovers of two different ways of triggering the push. I forgot which one is the most finished.
 - Some icons aren't coherent with the rest (different thickness), even if they are the same font.
 - Last two lines give the extended forecast. For some reason, the two last letters in each line aren't rendered. I don't think it's the code, but it might be the code. Or the way the screen renders the text. I don't know and I don't care.
+- Some icons still need some improved alignment. Don't look too hard if you suffer from OCD.
 
 ### Currently shows:
 - Time of weather forecast
