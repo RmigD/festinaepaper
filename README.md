@@ -1,7 +1,7 @@
 # festinaepaper
-##Just another e-Paper weather station in a watch case.
+## Just another e-Paper weather station in a watch case.
 
-###Instructions (probably incomplete)
+### Instructions (probably incomplete)
 - Check the paths under /examples/getweathertoscreen.sh
 - Check the paths under /examples/get_weather.py
 - Install the fonts under "pic" if you wish to see them in the code.
