@@ -9,7 +9,7 @@ Probably should have forked it, but I had no idea how github works. I still don'
 - Grab a Pi Zero W with pre-soldered headers and push screen and pi against eachother while trying your hardest not to break them. After you realize the headers are too long (because you suffer from OCD and need to see a flush fit), separate the screen from the pi, cut off a couple of mm of the top of each header and do it again.
 
 ### Instructions (probably incomplete)
-- Check the paths under /examples/getweathertoscreen.sh
+- Check the paths and change the GPS coordinates under /examples/getweathertoscreen.sh
 - Check the paths under /examples/get_weather.py
 - Install the fonts that you can find under "pic" if you wish to see them in the code. They will still render in the screen if not installed.
 - Provide your api key for darksky in file /examples/getweathertoscreen.sh
