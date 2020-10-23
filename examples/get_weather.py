@@ -53,7 +53,7 @@ print ("Gust: ", CUR_WIND_GUST)
 print ("Wind Speed: ", CUR_WIND_SPEED)
 strong_Wind=18 # km/h
 
-#tells me the weather via the speaker of my Pi3 with the Google AIY HAT (authentication is set up via SSH keys):
+#tells me the weather via the speaker of my Pi3 with the Google AIY HAT (authentication is set up via SSH keys): Currently only says the first word. I need to fix the escaping characters mumbo jumbo.
 os.system('ssh -t pi@192.168.1.41 "espeak "' + "\"" + FC_TOMORROW + "\"") # If by any chance the summary is ever "; rm -rf", boy am I screwed!
 
 #
