@@ -56,7 +56,7 @@ strong_Wind=18 # km/h
 #tells me the weather via the speaker of my Pi3 with the Google AIY HAT (authentication is set up via SSH keys):
 #convert spaces into underscores, otherwise "espeak dude" will only say the first word (due to my inability to properly escape quote marks).
 ESPEAK_TEST=FC_TOMORROW.replace(" ","_")
-os.system('ssh -t pi@192.168.1.41 "espeak "' + "\"" + ESPEAK_TEST + "\"") # If by any chance the summary is ever "; rm -rf", boy am I screwed!
+os.system('ssh -t pi@192.168.1.41 "espeak "' + "\"" + ESPEAK_TEST + "\"") # If by any chance the forecast is ever "; rm -rf", boy am I screwed!
 
 #
 
