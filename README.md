@@ -1,4 +1,9 @@
 # festinaepaper
+
+## Note that darksky will drop support for their API in 2021. Here's how to switch to openweathermap:
+https://openweathermap.org/darksky-openweather#match
+https://openweathermap.org/api/one-call-api
+
 ## Just another e-Paper weather station in a watch case.
 
 Got the sample code from here: https://github.com/waveshare/e-Paper
